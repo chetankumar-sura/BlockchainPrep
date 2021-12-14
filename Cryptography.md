@@ -12,7 +12,7 @@
 
 ## Cryptography
 
-**Cryptography : **is the science of using mathematics to encrypt and decrypt data.
+**Cryptography :** is the science of using mathematics to encrypt and decrypt data.
 **Cryptanalysis :** is the science of analysing and breaking secure communications.
     * Cryptanalysts are also called as *attackers*.
 
