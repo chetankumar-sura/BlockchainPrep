@@ -10,5 +10,5 @@
 
 
 1. #### Consenses Layer:
-        A consensus mechanism is an agreement needed for the network to operate properly even in the event of a failure. it needs to be able to achieve agreement on the data of the network within the distributed p2p network.
+    A consensus mechanism is an agreement needed for the network to operate properly even in the event of a failure. it needs to be able to achieve agreement on the data of the network within the distributed p2p network.
 
