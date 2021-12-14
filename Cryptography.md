@@ -9,13 +9,14 @@
 **Decryption :** The process of reverting ciphertext is called **Decryption**.
 
 <hr>
+
 ## Cryptography
 
 **Cryptography : **is the science of using mathematics to encrypt and decrypt data.
 **Cryptanalysis :** is the science of analysing and breaking secure communications.
     * Cryptanalysts are also called as *attackers*.
 
-    ### Strong Cryptography
+###     Strong Cryptography
         
         “There are two kinds of cryptography in this world: cryptography that will stop your kid sister from reading your files, and cryptography that will stop major governments from reading your files. This book is about the latter.”
 
